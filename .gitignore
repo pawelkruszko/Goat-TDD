@@ -1,0 +1,6 @@
+db.sqlite3
+geckodriver.log
+geckodriver.tar.gz
+.venv
+__pycache__
+*.pyc
