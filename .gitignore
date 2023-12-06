@@ -4,3 +4,5 @@ geckodriver.tar.gz
 .venv
 __pycache__
 *.pyc
+/lists/static/
+static
